@@ -26,6 +26,6 @@ Repository for AWS security and identity tasks
   
 ## Challenges
 Role creation kept failing due to conflicting role names.
-i was able to create the role eventually but it said there were some errors which I coudn't exactly find.
+I was able to create the role eventually but it said there were some errors which I coudn't exactly find.
 
 # screenshots attached
